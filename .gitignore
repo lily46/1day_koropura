@@ -1,6 +1,7 @@
-.DS_Store
+.DS_Storez1
 Library
 Temp
+Release
 *.pidb
 *.unityproj
 *.sln
